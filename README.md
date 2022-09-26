@@ -1,6 +1,6 @@
 ### Olá, me chamo Danielly 👋
 
-- 🌱 Atualmente estudando HTML, CSS e JS...
+- 🌱 Atualmente estudando...
 - 😄 Pronomes: ela/dela!
 
 
